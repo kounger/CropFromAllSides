@@ -1,4 +1,4 @@
-# CropVideoFromAllSides
+# CropFromAllSides
 Crop a video from all sides using FFmpeg.
 ## Instructions
 Open and run the EditVariablesAndRun.ps1 in PowerShell ISE.
